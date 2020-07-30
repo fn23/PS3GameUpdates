@@ -1,0 +1,1 @@
+A simple script I made to help get updates for games I played in the RPCS3 emulator.
